@@ -92,12 +92,6 @@ Controller cursor controls:
 - 
 ---
 
-## Support
-
-If you like the project and want to support development:
-
----
-
 ## Disclaimer
 
 This is an unofficial fan-made project and is not affiliated with or endorsed by Rovio Entertainment, Chimera Entertainment, or the original rights holders.
