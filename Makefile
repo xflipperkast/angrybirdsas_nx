@@ -10,7 +10,7 @@ include $(DEVKITPRO)/libnx/switch_rules
 TARGET      := angrybirdas_nx
 APP_TITLE   := Angry Bird Epic All Stars
 APP_AUTHOR  := xFlippy
-APP_VERSION := 1.0.3
+APP_VERSION := 1.0.4
 BUILD       := build
 SOURCES     := source
 INCLUDES    := source
